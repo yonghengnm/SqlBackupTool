@@ -1,0 +1,5 @@
+E:\C#开发\SqlBackupTool\SqlBackupTool\obj\Debug\SqlBackupTool.csprojResolveAssemblyReference.cache
+E:\C#开发\SqlBackupTool\SqlBackupTool\bin\Debug\SqlBackupTool.exe
+E:\C#开发\SqlBackupTool\SqlBackupTool\bin\Debug\SqlBackupTool.pdb
+E:\C#开发\SqlBackupTool\SqlBackupTool\obj\Debug\SqlBackupTool.exe
+E:\C#开发\SqlBackupTool\SqlBackupTool\obj\Debug\SqlBackupTool.pdb
